@@ -31,7 +31,7 @@ print("Result of Multiplication of", Number1, "and", Number2, "and", Number3, "i
 -> **Clone the Repository:**
    - Clone the repository using the following command:
      ```bash
-     git clone https://github.com/your-username/multiplication-program.git
+     https://github.com/Nasir-Sharif/Navttc-Task-3-Program-for-Multiplication.git
      ```
 
 ## How to Run
