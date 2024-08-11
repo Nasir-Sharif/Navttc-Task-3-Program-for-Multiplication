@@ -26,6 +26,14 @@ print("Result of Multiplication of", Number1, "and", Number2, "and", Number3, "i
 3. **Print Result:**
    - Print the result of the multiplication operation in a formatted message to the console.
 
+     ## How to Run
+
+-> **Clone the Repository:**
+   - Clone the repository using the following command:
+     ```bash
+     git clone https://github.com/your-username/multiplication-program.git
+     ```
+
 ## How to Run
 
 1. **Ensure Python is Installed:**
@@ -39,7 +47,7 @@ print("Result of Multiplication of", Number1, "and", Number2, "and", Number3, "i
    - Navigate to the directory where `program for Multiply(Nasir Sharif).py` is saved.
    - Run the script using the following command:
      ```bash
-     python multiplication.py
+     python program for Multiply(Nasir Sharif).py
      ```
 
 4. **View Output:**
@@ -53,4 +61,3 @@ This project is licensed under the MIT License
 
 For any questions or feedback, please contact Nasir Sharif at nasirsharifqasoori786@gmail.com
 ```
-
