@@ -32,7 +32,7 @@ print("Result of Multiplication of", Number1, "and", Number2, "and", Number3, "i
    - Ensure Python is installed on your system. You can download it from [python.org](https://www.python.org/downloads/).
 
 2. **Save the Script:**
-   - Save the provided Python code into a file named `multiplication.py`.
+   - Save the provided Python code into a file named `program for Multiply(Nasir Sharif).py`.
 
 3. **Execute the Script:**
    - Open a terminal or command prompt.
